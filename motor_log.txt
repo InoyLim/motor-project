@@ -1,0 +1,12 @@
+2025-10-31 21:25:37.759993 - System running normally Current: 1.4, Temp: 40.0
+2025-10-31 21:25:37.760990 - Overcurrent rectification measures engaged - Current: 1.7, Temp: 40.0
+2025-10-31 21:25:37.760990 - Overtemperature rectification measures engaged - Current: 1.4, Temp: 55.0
+2025-10-31 21:25:37.761987 - Shutdown! Current: 2.0, Temp: 40.0
+2025-10-31 21:25:37.761987 - Shutdown! Current: 1.5, Temp: 60.0
+2025-10-31 21:25:37.762985 - Shutdown! Current: 2.0, Temp: 60.0
+2025-10-31 21:26:45.382554 - System running normally Current: 1.4, Temp: 40.0
+2025-10-31 21:26:45.383551 - Overcurrent rectification measures engaged - Current: 1.7, Temp: 40.0
+2025-10-31 21:26:45.384550 - Overtemperature rectification measures engaged - Current: 1.4, Temp: 55.0
+2025-10-31 21:26:45.450069 - Shutdown! Current: 2.0, Temp: 40.0
+2025-10-31 21:26:45.451066 - Shutdown! Current: 1.5, Temp: 60.0
+2025-10-31 21:26:45.452063 - Shutdown! Current: 2.0, Temp: 60.0
