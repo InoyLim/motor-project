@@ -1,0 +1,12 @@
+[2025-11-02 09:26:00.885] EVENT = System is running healthy. | SEVERITY = NORMAL | CURRENT = 1.40 A | TEMP = 40.00 C | COMMAND = Command byte '1' sent to Arduino.
+[2025-11-02 09:26:49.946] EVENT = Overcurrent rectification measures engaged. | SEVERITY = WARNING | CURRENT = 1.70 A | TEMP = 40.00 C | COMMAND = Command byte '2' sent to Arduino.
+[2025-11-02 09:27:19.779] EVENT = Overtemperature rectification measures engaged. | SEVERITY = WARNING | CURRENT = 1.40 A | TEMP = 55.00 C | COMMAND = Command byte '3' sent to Arduino.
+[2025-11-02 09:27:36.836] EVENT = Shutdown! Power cutoff engaged. | SEVERITY = CRITICAL | CURRENT = 2.00 A | TEMP = 40.00 C | COMMAND = Command byte '0' sent to Arduino.
+[2025-11-02 09:27:47.177] EVENT = Shutdown! Power cutoff engaged. | SEVERITY = CRITICAL | CURRENT = 1.50 A | TEMP = 60.00 C | COMMAND = Command byte '0' sent to Arduino.
+[2025-11-02 09:28:01.530] EVENT = Shutdown! Power cutoff engaged. | SEVERITY = CRITICAL | CURRENT = 2.00 A | TEMP = 60.00 C | COMMAND = Command byte '0' sent to Arduino.
+[2025-11-02 09:28:12.563] EVENT = System is running healthy. | SEVERITY = NORMAL | CURRENT = 1.40 A | TEMP = 40.00 C | COMMAND = Command byte '1' sent to Arduino.
+[2025-11-02 09:28:12.565] EVENT = Overcurrent rectification measures engaged. | SEVERITY = WARNING | CURRENT = 1.70 A | TEMP = 40.00 C | COMMAND = Command byte '2' sent to Arduino.
+[2025-11-02 09:28:12.566] EVENT = Overtemperature rectification measures engaged. | SEVERITY = WARNING | CURRENT = 1.40 A | TEMP = 55.00 C | COMMAND = Command byte '3' sent to Arduino.
+[2025-11-02 09:28:12.569] EVENT = Shutdown! Power cutoff engaged. | SEVERITY = CRITICAL | CURRENT = 2.00 A | TEMP = 40.00 C | COMMAND = Command byte '0' sent to Arduino.
+[2025-11-02 09:28:12.571] EVENT = Shutdown! Power cutoff engaged. | SEVERITY = CRITICAL | CURRENT = 1.50 A | TEMP = 60.00 C | COMMAND = Command byte '0' sent to Arduino.
+[2025-11-02 09:28:12.575] EVENT = Shutdown! Power cutoff engaged. | SEVERITY = CRITICAL | CURRENT = 2.00 A | TEMP = 60.00 C | COMMAND = Command byte '0' sent to Arduino.
